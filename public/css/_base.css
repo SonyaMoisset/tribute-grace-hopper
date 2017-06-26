@@ -1,0 +1,48 @@
+img {
+    max-width: 1200px;
+    width: 100%;
+}
+
+li {
+    margin-bottom: var(--margin-1);
+}
+
+li:last-child {
+    margin-bottom: var(--margin-3);
+}
+
+figcaption {
+    padding-top: var(--margin-1);
+}
+
+#tribute-link {
+    color: var(--accentColor);
+}
+
+strong {
+    color: var(--primaryDarkColor);
+}
+
+.timeline {
+    color: var(--primaryDarkColor);
+    font-size: var(--fontSizeMedium);
+    font-weight: var(--fontBold);
+    padding-top: var(--margin-1);
+}
+
+.quote {
+    color: var(--primaryDarkColor);
+    font-size: var(--fontSizeMedium);
+    font-style: var(--fontItalic);
+}
+
+.author {
+    color: var(--primaryDarkColor);
+    text-align: var(--alignRight);
+    font-size: var(--fontSizeMedium);
+    margin-bottom: var(--margin-2);
+}
+
+.wikipedia-link {
+    margin-bottom: var(--margin-2);
+}

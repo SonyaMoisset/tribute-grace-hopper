@@ -1,0 +1,32 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.half-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.container-fluid {
+    width: 100%;
+    padding-top: var(--margin-2);
+    padding-bottom: var(--margin-2);
+    background-color: var(--lightPrimaryColor);
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.column {
+    flex-basis: 100%;
+}
+
+@media screen and (min-width: 800px) {
+    .column {
+        flex: 1;
+    }
+}

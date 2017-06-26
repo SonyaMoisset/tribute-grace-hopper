@@ -1,0 +1,26 @@
+:root {
+    --primaryDarkColor: #5D4037;
+    --primaryColor: #795548;
+    --lightPrimaryColor: #D7CCC8;
+    --text: #FFFFFF;
+    --accentColor: #00BCD4;
+    --primaryText: #212121;
+    --secondaryText: #757575;
+    --dividerColor: #BDBDBD;
+
+    --fontFamily: 'Raleway', sans-serif;
+    --fontUppercase: uppercase;
+    --fontBold: bold;
+    --fontItalic: italic;
+    
+    --fontSizeSmall: 16px;
+    --fontSizeMedium: 32px;
+    --fontSizeLarge: 64px;
+
+    --margin-1: 16px;
+    --margin-2: 32px;
+    --margin-3: 64px;
+
+    --alignCenter: center;
+    --alignRight: right;
+}

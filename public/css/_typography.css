@@ -1,0 +1,21 @@
+html {
+    font-family: var(--fontFamily);
+}
+
+h1 {
+    color: var(--primaryDarkColor);
+    text-align: var(--alignCenter);
+    font-size: var(--fontSizeLarge);
+    font-weight: var(--fontBold);
+    text-transform: var(--fontUppercase);
+    margin-bottom: var(--margin-1);
+}
+
+h2 {
+    text-align: var(--alignCenter);
+    font-size: var(--fontSizeSmall);
+}
+
+p {
+    font-size: var(--fontSizeSmall);
+}
