@@ -14,6 +14,6 @@
     "gulp-clean-css": "^3.4.2",
     "gulp-concat-css": "^2.3.0",
     "gulp-pug": "^3.3.0",
-    "pug": "^2.0.0-rc.2"
+    "pug": "^3.0.1"
   }
 }
